@@ -1,13 +1,13 @@
 
-# Calculator Application
+# Age Calculator Application
 
-This is a simple calculator application built using HTML, CSS, and JavaScript. The calculator can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+This is a web application that calculates your age based on the date of birth you provide. It displays your age in years, months, and days.
 
 ## Features
 
-- **Basic Arithmetic Operations:** Supports addition, subtraction, multiplication, and division.
-- **Clear Function:** Clear the current input.
-- **Responsive Design:** Works well on both desktop and mobile devices.
+- **Age Calculation:** Accurately calculates age in years, months, and days.
+- **Responsive Design:** Fully responsive and works well on any device.
+- **User-Friendly Interface:** Simple and easy to use interface.
 
 ## Technologies Used
 
@@ -17,7 +17,7 @@ This is a simple calculator application built using HTML, CSS, and JavaScript. T
 
 ## Getting Started
 
-To use the calculator, clone the repository and open the `index.html` file in your web browser.
+To use the Age Calculator, clone the repository and open the `index.html` file in your web browser.
 
 ### Prerequisites
 
@@ -27,25 +27,24 @@ To use the calculator, clone the repository and open the `index.html` file in yo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mohamed-khaled-mohmamed/calculator-app.git
+   git clone https://github.com/Mohamed-khaled-mohmamed/gitage-calculator-app.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd calculator-app
+   cd age-calculator-app
    ```
-3. Open `index.html` in your browser to start using the calculator.
+3. Open `index.html` in your browser to start using the Age Calculator.
 
 ## How to Use
 
-1. **Input Numbers:** Click the number buttons to input numbers.
-2. **Choose Operation:** Click on the operation buttons (+, -, *, /) to perform calculations.
-3. **Get Result:** Click the "=" button to see the result.
-4. **Clear:** Press the "C" button to clear the input.
+1. **Enter Date of Birth:** Select your birth date from the date picker.
+2. **Calculate Age:** Click the "Calculate" button to display your age in years, months, and days.
 
 ## Screenshot
 
-![Calculator Application](image.png)
+![Age Calculator Application](image.png)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
