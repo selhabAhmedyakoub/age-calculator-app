@@ -27,7 +27,7 @@ To use the Age Calculator, clone the repository and open the `index.html` file i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mohamed-khaled-mohmamed/gitage-calculator-app.git
+   git clone https://github.com/selhabAhmedyakoub/age-calculator-app.git
    ```
 2. Navigate to the project directory:
    ```bash
